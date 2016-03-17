@@ -254,17 +254,17 @@
   <array>
     <string>afii10046</string>
     <string>afii10051</string>
-    <string>afii10058</string>
-    <string>afii10059</string>
     <string>afii10060</string>
+    <string>afii10059</string>
+    <string>afii10058</string>
   </array>
   <key>public.kern1.afii10046</key>
   <array>
     <string>afii10046</string>
     <string>afii10051</string>
-    <string>afii10058</string>
-    <string>afii10059</string>
     <string>afii10060</string>
+    <string>afii10059</string>
+    <string>afii10058</string>
   </array>
   <key>public.kern1.afii10068</key>
   <array>
@@ -321,14 +321,14 @@
   <key>public.kern1.afii10094</key>
   <array>
     <string>afii10094</string>
-    <string>afii10107</string>
     <string>afii10106</string>
+    <string>afii10107</string>
   </array>
   <key>public.kern1.afii10094</key>
   <array>
     <string>afii10094</string>
-    <string>afii10107</string>
     <string>afii10106</string>
+    <string>afii10107</string>
   </array>
   <key>public.kern1.hyphen</key>
   <array>
